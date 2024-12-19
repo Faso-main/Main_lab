@@ -1,0 +1,1 @@
+"ChildrenLibrary.ChildrenLibrary" 1 "ChildrenLibrary.ChildenLibraryHall" "Первый зал" 1 "ChildrenLibrary.ChildenBook" "ДетКнига" "ДетАвтор" 200.0 2001 5 
